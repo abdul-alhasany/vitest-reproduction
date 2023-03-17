@@ -1,0 +1,3 @@
+- run `pnpm install`
+- run `pnpm update-submodules` (this step will take a while to download all the submodules)
+- run `pnpm test`
